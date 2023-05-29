@@ -8,4 +8,4 @@ I'm learning Python...
 <a href="https://twitter.com/la_serenisima_v?t=zQPhlUJgDBm5ozlZu2A-dg&s=33"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 ## 🛠 Tools
-![]https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
