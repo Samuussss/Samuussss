@@ -3,6 +3,7 @@ Hi, I'm a trainee programming student, future technician electronic and my hobbi
 ![](https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif)
 ## ⚒️ Skills
 I'm learning Python...
+
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
 ## 📲 Social
 <a href="https://twitter.com/la_serenisima_v?t=zQPhlUJgDBm5ozlZu2A-dg&s=33"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
