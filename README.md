@@ -4,7 +4,7 @@ Hi, I'm a trainee programming student, future technician electronic and my hobbi
 ## ⚒️ Skills
 I'm learning Python...
 
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)  
+![]([https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white](https://icongr.am/devicon/python-plain-wordmark.svg?size=128&color=currentColor))  
 ## 📲 Social
 <a href="https://twitter.com/0_o__sami__o_0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
