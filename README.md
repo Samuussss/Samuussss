@@ -15,4 +15,4 @@ I'm learning Python...
 ## 🛠 Tools
 
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![](SiVisualstudiocode)
+![](https://react-icons.github.io/react-icons/search?q=visual)
