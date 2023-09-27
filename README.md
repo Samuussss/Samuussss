@@ -11,8 +11,4 @@ I'm learning Python...
 
 ## 🛠 Tools
 
-![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/pycharm-icon.png)
-
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg)
-
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/Godot-Dark.svg)
+![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/pycharm-icon.png) ![](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg) ![](https://github.com/tandpfun/skill-icons/raw/main/icons/Godot-Dark.svg)
