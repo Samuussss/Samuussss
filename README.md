@@ -7,7 +7,7 @@ I'm learning Python...
 ![](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
 
 ## 📲 Social
-<a href="https://twitter.com/0_o__sami__o_0"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg&perline=10"></a> <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg=="><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg&perline=10"></a> <a href="https://discord.gg/YBa4PP7M"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg&perline=10"></a> <a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a"><img src="(https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg&perline=10)"></a>
+<a href="https://twitter.com/0_o__sami__o_0"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"></a> <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg=="><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"></a> <a href="https://discord.gg/YBa4PP7M"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"></a> <a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a>
 
 ## 🛠 Tools
 
