@@ -8,9 +8,8 @@ I'm learning Python...
 ## 📲 Social
 <a href="https://twitter.com/0_o__sami__o_0"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"></a>
 <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg=="><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"></a>
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/danolex.pra?mibextid=ZbWKwL&paipv=0&eav=AfbnCLjt3pEllKFOM6PR47tJxB_PPD3mArDrom4Xpr_Ek96LypIxqygH7cBUgvFFNOU&_rdr)
 <a href="https://discord.gg/YBa4PP7M"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"></a>
-<a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a"><img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor"></a>
+<a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a>
 
 ## 🛠 Tools
 
