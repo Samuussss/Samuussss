@@ -7,7 +7,7 @@ I'm learning Python...
 ![](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
 
 ## 📲 Social
-<a href="https://twitter.com/0_o__sami__o_0"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"></a>
+<a href="https://twitter.com/0_o__sami__o_0"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"></a>, <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg=="><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"></a>
 
 <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg=="><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"></a>
 
