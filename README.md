@@ -4,9 +4,15 @@ Hi, I'm a trainee programming student, future technician electronic and my hobbi
 ## ⚒️ Skills
 I'm learning Python...
 
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32">
+40%
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32">
+10%
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32">
+10%
 
 ## 📲 Social
+
 <a href="https://twitter.com/0_o__sami__o_0">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32" height="32">
 </a>
