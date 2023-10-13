@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32">
 </div>
 <div align="center">
-  40% 10% 5%
+  40%  10%  5%
 </div>
 
 <div align="center">
@@ -50,8 +50,6 @@
    
   🛠 Tools
    
-   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
 </div>
-
-<div align="center">
