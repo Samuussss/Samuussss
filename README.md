@@ -49,6 +49,7 @@
   📲 Social
    
   Do you want to contact me? Here's my contact information:
+  or my personal email: danolexpro08@gmail.com
   
   <a href="https://twitter.com/0_o__sami__o_0">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32" height="32">
@@ -65,8 +66,6 @@
   <a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32">
   </a>
-or my personal email:
-  danolexpro08@gmail.com
 </div>
 
 <div align="center">
