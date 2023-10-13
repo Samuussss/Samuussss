@@ -26,12 +26,17 @@ Hi, I'm a trainee programming student, future technician electronic and my hobbi
 
 ## 🛠 Tools
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
+
+
 ## ⚒️ Skills
 
 <div style="display: flex; align-items: center;">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32"> 
+  <div style="margin-right: 10px;">40%</div>
 
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32"> 40%
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32"> 10%
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32"> 10%
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32"> 
+  <div style="margin-right: 10px;">10%</div>
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32"> 
+  <div>10%</div>
 </div>
