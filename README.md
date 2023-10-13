@@ -10,8 +10,4 @@ I'm learning Python...
 <a href="https://twitter.com/0_o__sami__o_0"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg"></a> <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg=="><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"></a> <a href="https://discord.gg/YBa4PP7M"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg"></a> <a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg"></a>
 
 ## 🛠 Tools
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
-
-
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
