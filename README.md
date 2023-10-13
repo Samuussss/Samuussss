@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-   #
+   ‎ 
    
   ⚒️ Skills:
   
@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-   #
+   ‎ 
    
   📲 Social
    
@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-   #
+   ‎ 
    
   🛠 Tools:
    
