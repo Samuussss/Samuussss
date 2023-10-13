@@ -9,7 +9,7 @@
 <div align="center">
    ‎ 
    
-  ⚒️ Skills:
+  ⚒️ Skills
   
   Below are the programming languages related to my knowledge (The percentages are approximate):
    
@@ -48,7 +48,7 @@
 <div align="center">
    ‎ 
    
-  🛠 Tools:
+  🛠 Tools
    
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
