@@ -50,7 +50,8 @@
    
   Do you want to contact me? Here's my contact information:
   
-  or my personal email: ´danolexpro08@gmail.com´
+  or my personal email: danolexpro08@gmail.com
+  
   <a href="https://twitter.com/0_o__sami__o_0">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32" height="32">
   </a>
