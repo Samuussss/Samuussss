@@ -36,6 +36,7 @@ Below are the programming languages ​​related to my knowledge (The percentag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32"> 
   <div>10%</div>
 </div>
+
 ## ⚒️ Skills
 
 <div style="display: flex; flex-direction: column;">
