@@ -1,9 +1,11 @@
 <div align="center">
       ---------------------------------------------------
 </div>
+
 <div align="center">
   Hi, I'm a trainee programming student, future technician electronic, and my hobby is playing Basketball.
 </div>
+
 <div align="center">
      ----------------------------------------------------------------
 </div>
