@@ -1,10 +1,12 @@
 <div align="center">
       ---------------------------------------------------------
-   
+</div>
   Hi, I'm a trainee programming student, future technician electronic, and my hobby is playing Basketball.
      ----------------------------------------------------------------
-     ![](https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif)
-  
+<div align="center">
+      
+![](https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif)
+     
 </div>
 
 <div align="center">
