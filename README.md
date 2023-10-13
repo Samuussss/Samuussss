@@ -1,13 +1,9 @@
 # 👋 Hello 
 Hi, I'm a trainee programming student, future technician electronic and my hobbie is playing Basketball.
 ![](https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif)
-
-## ⚒️ Skills
-
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32"> 40%  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32"> 10%  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32"> 10%
-
+Kittens!!!
 ## 📲 Social
-
+Do you want to contact me? Here my data:
 <a href="https://twitter.com/0_o__sami__o_0">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32" height="32">
 </a>
@@ -29,7 +25,7 @@ Hi, I'm a trainee programming student, future technician electronic and my hobbi
 
 
 ## ⚒️ Skills
-
+Below are the programming languages ​​related to my knowledge (The percentages are approximate
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32"> 
   <div style="margin-right: 10px;">40%</div>
