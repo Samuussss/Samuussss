@@ -65,6 +65,8 @@
   <a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32">
   </a>
+or my personal email:
+  danolexpro08@gmail.com
 </div>
 
 <div align="center">
