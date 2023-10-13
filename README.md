@@ -9,6 +9,7 @@
 <div align="center">
    ‎ 
    --------------------------
+   
   ⚒️ Skills
   
   Below are the programming languages related to my knowledge (The percentages are approximate):
@@ -24,6 +25,7 @@
 <div align="center">
    ‎ 
    --------------------------
+   
   📲 Social
    
   Do you want to contact me? Here's my contact information:
@@ -48,6 +50,7 @@
 <div align="center">
    ‎ 
    --------------------------
+   
   🛠 Tools
    
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
