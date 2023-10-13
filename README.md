@@ -6,6 +6,7 @@
   
 </div>
 
+<div align="center">
   ⚒️ Skills:
   
   Below are the programming languages related to my knowledge (The percentages are approximate):
