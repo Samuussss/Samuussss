@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32">
 </div>
 <div align="center">
-  40% 10% 10%
+  40% 10% 5%
 </div>
 
 <div align="center">
