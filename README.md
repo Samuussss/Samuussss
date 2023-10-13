@@ -36,3 +36,21 @@ Below are the programming languages ​​related to my knowledge (The percentag
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32"> 
   <div>10%</div>
 </div>
+## ⚒️ Skills
+
+<div style="display: flex; flex-direction: column;">
+  <div style="display: flex; align-items: center;">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32">
+    <div>40%</div>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32">
+    <div>10%</div>
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32">
+    <div>10%</div>
+  </div>
+</div>
