@@ -95,7 +95,3 @@ I love kittens :3
 <div align="center">
       ------
 </div>
-
-<div align="center">
-      -
-</div>
