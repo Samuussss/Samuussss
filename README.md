@@ -45,6 +45,7 @@ I love kittens :3
 <div align="center">
   20%  10%   5%
 </div>
+
 <div align="center">
 Coming Soon:
 </div>
