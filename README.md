@@ -114,6 +114,8 @@ Coming Soon:
 
 <div align="center">
 
+<div align="center">
+
 --------
 
 -------------------------
@@ -121,16 +123,21 @@ Coming Soon:
 -------------------------------------------------
 
 --------------------------------------------------------------------------------
+</div>
 
 Hi, I'm a trainee programming student, future electronic technician, and my hobby is playing basketball.
 
+<div align="center">
 ---------------------------------------------------------------------------------------------------------------------------------------------
+</div>
 
 ![Kitten](https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif)
 
 I love kittens :3
 
+<div align="center">
 ---------------------------------------------------------------------------------------------------------------------------------------------
+</div>
 
 ⚒️ **Skills**
 
@@ -161,9 +168,9 @@ Coming Soon:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" height="32">
 
   ‎
-
+<div align="center">
 ----------------------------------------------------------
-
+</div>
 📲 **Social**
 
 Do you want to contact me? Here's my contact information:
@@ -187,8 +194,9 @@ or my personal email: danolexpro08@gmail.com
 </a>
 
   ‎
-
+<div align="center">
 ---------------------------------------------------
+</div>
 
 🛠 **Tools**
 
@@ -196,10 +204,13 @@ or my personal email: danolexpro08@gmail.com
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">
 
+<div align="center">
 ---------------------
 
 -----------
 
 ------
+
+</div>
 
 </div>
