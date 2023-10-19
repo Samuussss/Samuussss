@@ -112,7 +112,7 @@ Coming Soon:
       ------
 </div>
 
-<center>
+<div align="center">
 
 --------
 
@@ -138,27 +138,27 @@ Below are the programming languages related to my knowledge (The percentages are
 
 Currently:
 
-![Python](https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg =32x32)
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg =32x32)
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg =32x32)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32">
 
 20%  10%   5%
 
 Coming Soon:
 
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg =32x32)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =32x32)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg =32x32)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =32x32)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg =32x32)
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg =32x32)
-![Ruby](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg =32x32)
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg =32x32)
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg =32x32)
-![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg =32x32)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =32x32)
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg =32x32)
-![Arduino](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg =32x32)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="32" height="32">
 
   ‎
 
@@ -170,10 +170,21 @@ Do you want to contact me? Here's my contact information:
 
 or my personal email: danolexpro08@gmail.com
 
-[![Twitter](https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg =32x32)](https://twitter.com/0_o__sami__o_0)
-[![Instagram](https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg =32x32)](https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg==)
-[![Discord](https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg =32x32)](https://discord.gg/YBa4PP7M)
-[![LinkedIn](https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg =32x32)](https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a)
+<a href="https://twitter.com/0_o__sami__o_0">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32" height="32">
+</a>
+
+<a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg==">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32" height="32">
+</a>
+
+<a href="https://discord.gg/YBa4PP7M">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="32" height="32">
+</a>
+
+<a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32">
+</a>
 
   ‎
 
@@ -181,9 +192,9 @@ or my personal email: danolexpro08@gmail.com
 
 🛠 **Tools**
 
-![VSCode](https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg =32x32)
-![Godot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg =32x32)
-![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg =32x32)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">
 
 ---------------------
 
@@ -191,4 +202,4 @@ or my personal email: danolexpro08@gmail.com
 
 ------
 
-</center> 
+</div>
