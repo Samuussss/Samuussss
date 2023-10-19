@@ -37,15 +37,16 @@ I love kittens :3
   ⚒️ Skills
   
   Below are the programming languages related to my knowledge (The percentages are approximate):
+<div align="center">
+Currently:
+
+</div>
    
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32">
 </div>
-<div align="center">
-Currently:
 
-</div>
 <div align="center">
   20%  10%   5%
 </div>
