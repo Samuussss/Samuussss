@@ -55,6 +55,8 @@ Currently:
 ㅤ
 
 Coming Soon:
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="32" height="32">
 </div>
 
 <div align="center">
