@@ -43,6 +43,10 @@ I love kittens :3
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32">
 </div>
 <div align="center">
+Currently:
+
+</div>
+<div align="center">
   20%  10%   5%
 </div>
 
