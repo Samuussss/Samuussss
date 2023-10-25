@@ -86,8 +86,10 @@ Coming Soon:
   <a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32">
   </a>
+
 My personal email and phone number:
-Danolexpro08@gmail.com +54 9 261 273-4273 
+Danolexpro08@gmail.com +54 9 261 273-4273
+
 </div>
 
 <div align="center">
