@@ -70,8 +70,6 @@ Coming Soon:
    
   Do you want to contact me? Here's my contact information:
   
-  My personal email and phone number:
-Danolexpro08@gmail.com +54 9 261 273-4273
   
   <a href="https://twitter.com/0_o__sami__o_0">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32" height="32">
@@ -88,6 +86,8 @@ Danolexpro08@gmail.com +54 9 261 273-4273
   <a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32">
   </a>
+My personal email and phone number:
+Danolexpro08@gmail.com +54 9 261 273-4273 
 </div>
 
 <div align="center">
