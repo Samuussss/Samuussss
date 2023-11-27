@@ -54,7 +54,79 @@ Currently:
 </div>
 
 <div align="center">
-ㅤ
+### Front-end
+- HTML
+- CSS
+- JavaScript
+- React
+- TypeScript
+</div>
+
+<div align="center">
+### Back-end
+- Java
+- PHP
+- Ruby
+- Node.js (JavaScript on the server side)
+- Flask (Python)
+- C#
+- Python
+- C++
+</div>
+
+<div align="center">
+### Database
+- MySQL
+</div>
+
+<div align="center">
+**Security:**
+- C
+- Python
+- PHP
+</div>
+
+<div align="center">
+**Data Science and Analysis:**
+- Python
+- R
+</div>
+
+<div align="center">
+**Mobile App Development:**
+- Swift (iOS)
+- Kotlin (Android)
+- React Native
+</div>
+
+<div align="center">
+**Game Development:**
+- C++
+- C#
+- Python (with libraries like Pygame)
+</div>
+
+<div align="center">
+**Automation and Scripting:**
+- Python
+- Bash (Shell scripting)
+- PowerShell
+</div>
+
+<div align="center">
+**Internet of Things (IoT):**
+- Python
+- C++
+- JavaScript (Node.js)
+</div>
+
+<div align="center">
+**Machine Learning and Artificial Intelligence:**
+- Python
+- R
+- Java
+- TensorFlow (compatible with various languages)
+</div>
 
 Coming Soon:
 
