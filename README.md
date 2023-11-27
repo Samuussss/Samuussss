@@ -55,7 +55,7 @@ Currently:
 
 
 <div align="center">
-### Front-end
+Front-end
 
 HTML
 CSS
@@ -65,8 +65,8 @@ TypeScript
 </div>
 
 <div align="center">
-### Back-end
-- Java
+Back-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="32" height="32">
 - PHP
 - Ruby
 - Node.js (JavaScript on the server side)
@@ -126,7 +126,7 @@ TypeScript
 **Machine Learning and Artificial Intelligence:**
 - Python
 - R
-- Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="32" height="32">
 - TensorFlow (compatible with various languages)
 </div>
 
