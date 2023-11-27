@@ -53,13 +53,15 @@ Currently:
   20%  10%   5%
 </div>
 
+
 <div align="center">
 ### Front-end
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
+
+HTML
+CSS
+JavaScript
+React
+TypeScript
 </div>
 
 <div align="center">
