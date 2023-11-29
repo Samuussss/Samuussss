@@ -59,13 +59,14 @@ Front-end
 
 HTML
 CSS
-JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="32" height="32">
 React
 TypeScript
 </div>
 
 <div align="center">
 Back-end
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="32" height="32">
 - PHP
 - Ruby
@@ -119,7 +120,7 @@ Back-end
 **Internet of Things (IoT):**
 - Python
 - C++
-- JavaScript (Node.js)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="32" height="32">  (Node.js)
 </div>
 
 <div align="center">
