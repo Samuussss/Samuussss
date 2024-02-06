@@ -67,7 +67,7 @@ TypeScript
 Back-end
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="32" height="32">
-- PHP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" widht="32" height="32">
 - Ruby
 - Node.js (JavaScript on the server side)
 - Flask (Python)
@@ -85,7 +85,7 @@ Back-end
 **Security:**
 - C
 - Python
-- PHP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" widht="32" height="32">
 </div>
 
 <div align="center">
