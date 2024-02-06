@@ -55,7 +55,17 @@ Currently:
 
 
 <div align="center">
+
+
 Coming Soon:
+
+| Logo del Lenguaje | Sector |
+|--------------------|--------|
+| ![Logo de JavaScript](ruta/al/logo/javascript.png) | Front-end |
+| ![Logo de Python](ruta/al/logo/python.png) | Back-end |
+| ![Logo de Java](ruta/al/logo/java.png) | Back-end |
+| ![Logo de HTML](ruta/al/logo/html.png) | Front-end |
+| ![CSS](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="32" height="32">) | Front-end |
 
 Front-end
 
