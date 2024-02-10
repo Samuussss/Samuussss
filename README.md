@@ -57,9 +57,10 @@ Currently:
 
 
 <div align="center">
-
-
+      
 Coming Soon:
+
+Front-end
 
 | Logo del Lenguaje | Sector |
 |--------------------|--------|
@@ -69,9 +70,9 @@ Coming Soon:
 | ![Html](https://icongr.am/devicon/html5-original-wordmark.svg?size=32&color=currentColor) | Front-end |
 | ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=32&color=currentColor) | Front-end |
 
-Front-end
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  widht="32" height="32"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" widht="32" height="32">
+
+
 </div>
 
 <div align="center">
