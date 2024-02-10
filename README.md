@@ -51,8 +51,7 @@ Currently:
 
 <div align="center">
   20%  10%   5%
-
-
+      ‎
 </div>
 
 
