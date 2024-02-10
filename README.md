@@ -63,11 +63,11 @@ Coming Soon:
 
 | Logo del Lenguaje | Sector |
 |--------------------|--------|
-| ![TScript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" widht="32" height="32">) | Front-end |
-| ![React](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  widht="32" height="32">) | Front-end |
-| ![Jscript](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="32" height="32">) | Front-end |
-| ![Html](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="32" height="32">) | Front-end |
-| ![CSS](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="32" height="32">) | Front-end |
+| ![TScript](https://icongr.am/devicon/typescript-original.svg?size=32&color=currentColor) | Front-end |
+| ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=32&color=currentColor) | Front-end |
+| ![Jscript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) | Front-end |
+| ![Html](https://icongr.am/devicon/html5-original-wordmark.svg?size=32&color=currentColor) | Front-end |
+| ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=32&color=currentColor) | Front-end |
 
 Front-end
 
