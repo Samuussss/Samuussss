@@ -35,7 +35,7 @@ I love kittens :3
 <div align="center">
       ---------------------------------------------------------------------------------------------------------------------------------
    
-  ⚒️ Skills
+  ⚒️ **Skills**
   
   Below are the programming languages related to my knowledge (The percentages are approximate):
 
@@ -82,7 +82,7 @@ Back-end
    ‎ 
    ------------------------------------------------------------------------------------------------
    
-  📲 Social
+  📲 **Social**
    
   Do you want to contact me? Here's my contact information:
   
@@ -112,7 +112,7 @@ Danolexpro08@gmail.com +54 9 261 273-4273
    ‎ 
    ---------------------------------------------------
    
-  🛠 Tools
+  🛠 **Tools**
      
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
