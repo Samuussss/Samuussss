@@ -50,10 +50,9 @@ Currently:
 </div>
 
 <div align="center">
-  20%  10%   5%
-      ‎
+  20%  10%   5%‎
 </div>
-
+<br>
 
 <div align="center">
       
