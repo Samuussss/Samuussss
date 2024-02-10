@@ -58,12 +58,23 @@ I love kittens :3
 
 <div align="center">
       
-**Coming Soon:**
+🛠 **Tools**
+      
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">
+  
+</div>
+
+<div align="center">
+<br>
+      
+**🚀Coming Soon:🚀**
 
 Front-end
 
-| Logo del Lenguaje | Sector |
-|--------------------|--------|
+| Language | Sector |
+|:------------------:|--------|
 | ![TScript](https://icongr.am/devicon/typescript-original.svg?size=32&color=currentColor) | Front-end |
 | ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=32&color=currentColor) | Front-end |
 | ![Jscript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) | Front-end |
@@ -104,21 +115,19 @@ Back-end
   </a>
 
 My personal email and phone number:
-Danolexpro08@gmail.com +54 9 261 273-4273
-
-</div>
-
 <div align="center">
-   ‎ 
-   ---------------------------------------------------
-   
-  🛠 **Tools**
-     
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">
+<div>
+  <a href="Wa.me/+5492612734723">
+    <img src="https://icongr.am/jam/whatsapp.svg?size=32&color=25D366">
+  </a>
+  
+  Whatsapp</div><div><a href="Danolexpro08@gmail.com">
+    <img src="https://icongr.am/octicons/mail.svg?size=128&color=9e9e9e" width="32" height="32">
+  </a>
+  
+  ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎Mail
+  </div>
 </div>
-
 <div align="center">
       ---------------------
 </div>
