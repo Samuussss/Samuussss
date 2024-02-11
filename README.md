@@ -38,40 +38,28 @@ I love kittens :3
   ⚒️ **Skills**
   
   Below are the programming languages related to my knowledge (The percentages are approximate):
-
+</div>
 <div align="center">
       
-**Currently:**
+**Currently:**  
       
-</div>
-   
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32">
-
-</div>
-
-<div align="center">
-  20%  10%   5%‎
+| Language | Sector | Percentage |
+|:------------------:|:------:|:----------:|
+| ![Python](https://icongr.am/devicon/python-original.svg?size=32&color=currentColor) | Software Development | 20% |
+| ![C#](https://icongr.am/devicon/csharp-original.svg?size=32&color=currentColor) | Game Development | 10% |
+| ![C++](https://icongr.am/devicon/cplusplus-original.svg?size=32&color=currentColor) | Game Development | 5% |
+|-------|------------------|-------|
+| Tools | Sector | Percentage |
+| <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">   | Software Development | 80% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">   | Software Development | 25% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">  | Games Devolopment | 45% |
 </div>
 <br>
 
 <div align="center">
-      
-🛠 **Tools**
-      
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">
-  
-</div>
 
-<div align="center">
-<br>
-      
+
 **🚀Coming Soon:🚀**
-
-Front-end
 
 | Language | Sector |
 |:------------------:|--------|
@@ -80,9 +68,6 @@ Front-end
 | ![Jscript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) | Front-end |
 | ![Html](https://icongr.am/devicon/html5-original-wordmark.svg?size=32&color=currentColor) | Front-end |
 | ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=32&color=currentColor) | Front-end |
-
-
-
 
 </div>
 
