@@ -21,11 +21,10 @@
       ---------------------------------------------------------------------------------------------------------------------------------
 
 </div>
-
 <div align="center">
-      
+
 ![](https://i.pinimg.com/originals/1e/a6/66/1ea66601f1ee09b578c40feee6ecd953.gif)
-     
+
 </div>
 
 <div align="center">
@@ -34,14 +33,24 @@ I love kittens :3
 
 <div align="center">
       ---------------------------------------------------------------------------------------------------------------------------------
-   
-  ⚒️ **Skills**
+</div>
+
+<div align="center">
+<br>
+
+  ⚒️ **Skills**⚒️
   
+<br>
+
   Below are the programming languages related to my knowledge (The percentages are approximate):
 </div>
 <div align="center">
       
-**Currently:**  
+<br>
+
+**🎇Currently:🎇**
+
+<br>
       
 | Language | Sector | Percentage |
 |:------------------:|:------:|:----------:|
@@ -54,32 +63,34 @@ I love kittens :3
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">   | Software Development | 25% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">  | Games Devolopment | 45% |
 </div>
-<br>
 
+<br>
 <div align="center">
 
-
 **🚀Coming Soon:🚀**
+
+<br>
 
 | Language | Sector |
 |:------------------:|--------|
 | ![TScript](https://icongr.am/devicon/typescript-original.svg?size=32&color=currentColor) | Front-end |
 | ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=32&color=currentColor) | Front-end |
-| ![Jscript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) | Front-end |
 | ![Html](https://icongr.am/devicon/html5-original-wordmark.svg?size=32&color=currentColor) | Front-end |
-| ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=32&color=currentColor) | Front-end |
+| ![Jscript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) | Front/Back-end |
+| ![Node-Js](https://icongr.am/devicon/nodejs-original.svg?size=32&color=fa0000) | Back-end |
+| ![Rils-Original](https://icongr.am/devicon/rails-original-wordmark.svg?size=32&color=currentColor) | Back-end |
 
 </div>
-
 <div align="center">
-Back-end
-
+      ------------------------------------------------------------------------------------------------
+</div>
 <div align="center">
-   ‎ 
-   ------------------------------------------------------------------------------------------------
-   
-  📲 **Social**
-   
+<br>
+
+📲 **Social**📲
+
+<br>
+
   Do you want to contact me? Here's my contact information:
   
   
@@ -112,7 +123,7 @@ My personal email and phone number:
   
   ‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎Mail
   </div>
-</div>
+
 <div align="center">
       ---------------------
 </div>
