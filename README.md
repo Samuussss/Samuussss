@@ -36,13 +36,15 @@ I love kittens :3
 </div>
 
 <div align="center">
-<br>
 
-  ⚒️ **Skills**⚒️
+
+### ⚒️ **Skills**⚒️
   
 <br>
 
-  Below are the programming languages related to my knowledge (The percentages are approximate):
+  Below are the programming languages related to my knowledge 
+  
+  (The percentages are approximate)
 </div>
 <div align="center">
       
