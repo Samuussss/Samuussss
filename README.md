@@ -62,8 +62,8 @@ I love kittens :3
 |-------|------------------|-------|
 | Tools | Sector | Percentage |
 | <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">   | Software Development | 80% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">   | Software Development | 25% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">  | Games Devolopment | 45% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">   | Software Development | 45% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">  | Games Devolopment | 35% |
 </div>
 
 <br>
