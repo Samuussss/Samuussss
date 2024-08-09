@@ -63,7 +63,6 @@ I love kittens :3
 | Tools | Sector | Percentage |
 | <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">   | Software Development | 80% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">   | Software Development | 45% |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="32" height="32">  | Games Devolopment | 35% |
 </div>
 
 <br>
@@ -77,7 +76,6 @@ I love kittens :3
 |:------------------:|--------|
 | ![TScript](https://icongr.am/devicon/typescript-original.svg?size=32&color=currentColor) | Front-end |
 | ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=32&color=currentColor) | Front-end |
-| ![Html](https://icongr.am/devicon/html5-original-wordmark.svg?size=32&color=currentColor) | Front-end |
 | ![Jscript](https://icongr.am/devicon/javascript-original.svg?size=32&color=currentColor) | Front/Back-end |
 | ![Node-Js](https://icongr.am/devicon/nodejs-original.svg?size=32&color=fa0000) | Back-end |
 | ![Rils-Original](https://icongr.am/devicon/rails-original-wordmark.svg?size=32&color=currentColor) | Back-end |
