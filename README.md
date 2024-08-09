@@ -61,7 +61,7 @@ I love kittens :3
 | ![C++](https://icongr.am/devicon/cplusplus-original.svg?size=32&color=currentColor) | Game Development | 23% |
 |-------|------------------|-------|
 | Tools | Sector | Percentage |
-| <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">   | Software Development | 80% |
+| <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="32" height="32">   | Software Development | 86% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="32" height="32">   | Software Development | 45% |
 </div>
 
