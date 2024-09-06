@@ -110,8 +110,6 @@ I love kittens :3
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32">
   </a>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="aldo-samuel-vladimir-q-03a48327a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a?trk=profile-badge">Aldo samuel vladimir Q.</a></div>
               
 
