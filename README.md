@@ -53,7 +53,7 @@
       
 <br>
 
-### - 🔹🔷 **Currently** 🔷🔹 -
+#### - 🔹🔷 **Currently** 🔷🔹 -
 
 <br>
       
@@ -71,7 +71,7 @@
 <br>
 <div align="center">
 
-### - 🔸🔶 **Coming Soon** 🔶🔸 -
+#### - 🔸🔶 **Coming Soon** 🔶🔸 -
 <br>
 
 | Language | Sector |
@@ -89,7 +89,7 @@
 <div align="center">
 <br>
 
-### - 💚 **Social** 💚 -
+#### - 💚 **Social** 💚 -
 
 <br>
 
