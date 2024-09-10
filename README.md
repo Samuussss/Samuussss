@@ -97,7 +97,7 @@
   
   
   <a href="https://twitter.com/0_o__sami__o_0">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Twitter.svg" width="32" height="32">
+    <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" width="32" height="32">
   </a>
 
   <a href="https://instagram.com/0_o__sami__o_0?igshid=MzNlNGNkZWQ4Mg==">
