@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  Hi, I'm a trainee programming student, future technician electronic, and my hobby is playing Basketball.
+  Hi, I'm a trainee programming student, future technician electronic.
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
 <div align="center">
 
 
-### ⚒️ **Skills**⚒️
+## - ✨🌟 **Skills** 🌟✨ -
   
 <br>
 
@@ -51,7 +51,7 @@
       
 <br>
 
-**🎇Currently:🎇**
+### - 🔹🔷 **Currently** 🔷🔹 -
 
 <br>
       
@@ -69,8 +69,7 @@
 <br>
 <div align="center">
 
-**🚀Coming Soon:🚀**
-
+### - 🔸🔶 **Coming Soon** 🔶🔸 -
 <br>
 
 | Language | Sector |
@@ -88,7 +87,7 @@
 <div align="center">
 <br>
 
-📲 **Social**📲
+### - 💚 **Social** 💚 -
 
 <br>
 
