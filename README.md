@@ -95,22 +95,29 @@
 
   Do you want to contact me? Here's my contact information:
   
-  
-  <a href="https://twitter.com/Samuussss">
-    <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" width="32" height="32">
+<a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32">
   </a>
-
-  <a href="https://instagram.com/Samuussss?igshid=MzNlNGNkZWQ4Mg==">
+  
+<a href="https://instagram.com/Samuussss?igshid=MzNlNGNkZWQ4Mg==">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32" height="32">
   </a>
-
-  <a href="https://discord.gg/YBa4PP7M">
+  
+<a href="https://discord.gg/YBa4PP7M">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="32" height="32">
   </a>
 
-  <a href="https://www.linkedin.com/in/aldo-samuel-vladimir-q-03a48327a">
-    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="32" height="32">
-  </a>        
+
+  
+<a href="https://twitter.com/Samuussss">
+    <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" width="32" height="32">
+  </a>
+
+
+
+
+
+        
 
 My personal email and phone number:
 <div align="center">
