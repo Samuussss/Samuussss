@@ -120,7 +120,7 @@
 My personal email and phone number:
 <div align="center">
 <div>
-  <a href="Wa.me/+5492612734723">
+  <a href="https://Wa.me/+5492612734723">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-64.png">
   </a>
   
