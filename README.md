@@ -56,8 +56,8 @@ I love kittens :3
       
 | Language | Sector | Percentage |
 |:------------------:|:------:|:----------:|
-| ![Python](https://icongr.am/devicon/python-original.svg?size=32&color=currentColor) | Software Development | 25% |
-| ![Html](https://icongr.am/devicon/html5-original-wordmark.svg?size=32&color=currentColor) | Front-end | 20% |
+| ![Python](https://icongr.am/devicon/python-original.svg?size=32&color=currentColor) | Software Development | 28% |
+| ![Html](https://icongr.am/devicon/html5-original-wordmark.svg?size=32&color=currentColor) | Front-end | 33% |
 | ![C++](https://icongr.am/devicon/cplusplus-original.svg?size=32&color=currentColor) | Software Development | 23% |
 |-------|------------------|-------|
 | Tools | Sector | Percentage |
