@@ -103,7 +103,7 @@
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" width="32" height="32">
   </a>
   
-<a href="https://discord.gg/YBa4PP7M">
+<a href="https://discord.com/channels/935693749768577136/1120091454346362971">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Discord.svg" width="32" height="32">
   </a>
 
