@@ -38,9 +38,11 @@
 
 <div align="center">
 
-
 ## - ✨🌟 **Skills** 🌟✨ -
-  
+
+</div>
+
+<div align="center">
 <br>
 
   Below are the programming languages related to my knowledge 
