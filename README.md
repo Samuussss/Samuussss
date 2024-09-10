@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-I love kittens :3
+- I love life -
 </div>
 
 <div align="center">
